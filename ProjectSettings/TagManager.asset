@@ -6,6 +6,7 @@ TagManager:
   tags:
   - death
   - block
+  - ball
   layers:
   - Default
   - TransparentFX
@@ -13,7 +14,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - background
   - 
   - 
   - 
@@ -42,4 +43,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: eveything
+    uniqueID: 3666774423
+    locked: 0
+  - name: background
+    uniqueID: 3228324841
     locked: 0
